@@ -1,4 +1,4 @@
-# 🛡️ SnapShield AI
+# SnapShield AI
 
 ### Real-Time On-Device Privacy Protection
 
@@ -10,23 +10,23 @@ The goal is to prevent sensitive information such as passwords, API keys, phone 
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
-### 🔐 Sensitive Information Detection
+### Sensitive Information Detection
 
 SnapShield currently detects:
 
-- ✉️ Email addresses
-- 📱 Phone numbers
-- 💳 Credit/debit card numbers
-- 🔑 API keys and tokens
-- 🔒 Passwords
+- Email addresses
+- Phone numbers
+- Credit/debit card numbers
+- API keys and tokens
+- Passwords
 
 The detector uses pattern matching, contextual filtering, confidence scores, card-number validation, and duplicate detection to reduce false positives.
 
 ---
 
-### 👀 Viewer Detection
+### Viewer Detection
 
 SnapShield analyzes the camera feed to identify the number of visible viewers.
 
@@ -40,7 +40,7 @@ When multiple viewers are detected, the privacy risk is increased.
 
 ---
 
-### 📊 Privacy Risk Assessment
+### Privacy Risk Assessment
 
 The privacy engine combines:
 
